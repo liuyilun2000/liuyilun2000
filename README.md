@@ -1,4 +1,5 @@
-+ Hello, I'm Yilun Liu @liuyilun2000
++ Hello! I'm Yilun Liu @liuyilun2000, current PhD student at LMU Munich 
++ My research focuses on understanding the capabilities and limitations of language models, and from there developing new methods and solutions.  
 
 <!--
 **liuyilun2000/liuyilun2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
